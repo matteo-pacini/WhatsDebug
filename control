@@ -1,0 +1,10 @@
+Package: com.matteopacini.whatsdebug
+Name: WhatsDebug
+Depends: mobilesubstrate, firmware (>= 7.0)
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Enables WhatsApp Debug Menu in WhatsApp Settings screen.
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Matteo Pacini (Zi0P4tch0) <ispeakprogramming@gmail.com>
+Section: Tweaks
