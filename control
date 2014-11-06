@@ -1,6 +1,6 @@
 Package: com.matteopacini.whatsdebug
 Name: WhatsDebug
-Depends: mobilesubstrate, firmware (>= 7.0)
+Depends: mobilesubstrate, firmware (>= 8.1)
 Version: 0.1.0
 Architecture: iphoneos-arm
 Description: Enables WhatsApp Debug Menu in WhatsApp Settings screen.
